@@ -1,0 +1,4 @@
+[AbgleichV2]
+Version=2026.05.29.020
+Datei=AbgleichV2.accdb
+PflichtUpdate=1
