@@ -1,4 +1,4 @@
-[AbgleichV2]
-Version=2026.05.29.020
-Datei=AbgleichV2.accdb
-PflichtUpdate=1
+[Frontend]
+Version=2026.05.29.001
+Archiv=CEAG KundendienstV7.7z
+Datei=CEAG KundendienstV7.mdb
