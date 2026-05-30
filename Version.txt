@@ -1,4 +1,12 @@
 [Frontend]
-Version=2026.05.29.001
+Version=2026.05.30.002
 Archiv=CEAG KundendienstV7.7z
-Datei=CEAG KundendienstV7.mdb
+Datei=CEAG KundendienstV7.accde
+PflichtUpdate=1
+Titel=Update Version V8.48
+
+[Hinweise]
+Zeile1=Neue Version V8.48
+Zeile2=Neue Funktion Autoupdate
+Zeile3=Ausdruck Wartungsprotokoll beschleunigt
+Zeile4=neuer Abgleich + Änderungen im Bürobetrieb
