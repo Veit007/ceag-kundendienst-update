@@ -1,6 +1,6 @@
 [VERSION]
-Version=7.24
-MinVersion=7.00
+Version=8.48_4
+MinVersion=8.48
 
 [LICENSE]
 OfflineDays=14
@@ -13,5 +13,5 @@ ForceUpdate=False
 DeleteInstall=False
 
 [SIGNATURE]
-Signature=71cdf85386201fa4b0b2b32c41b68396e0bc3309b3d947e6bdf61a0e1b4c39d8
+Signature=79f5618c3dcfa528bc635c689324464e7055a2f696908ca352b2fa75afb17048
 
