@@ -1,0 +1,17 @@
+[VERSION]
+Version=7.24
+MinVersion=7.00
+
+[LICENSE]
+OfflineDays=14
+BlockedUsers=-1771801301;-1347070220
+BlockedTechs=
+BlockedInstalls=
+
+[COMMANDS]
+ForceUpdate=False
+DeleteInstall=False
+
+[SIGNATURE]
+Signature=71cdf85386201fa4b0b2b32c41b68396e0bc3309b3d947e6bdf61a0e1b4c39d8
+
