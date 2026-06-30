@@ -1,5 +1,5 @@
 [Frontend]
-Version=2026.06.30.009
+Version=2026.06.30.010
 Archiv=CEAG KundendienstV7.7z
 Datei=CEAG KundendienstV7.mdb
 PflichtUpdate=1
