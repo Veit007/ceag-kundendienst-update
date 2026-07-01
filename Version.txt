@@ -1,12 +1,12 @@
 [Frontend]
-Version=2026.06.30.014
+Version=2026.07.01.015
 Archiv=CEAG KundendienstV7.7z
 Datei=CEAG KundendienstV7.mdb
 PflichtUpdate=1
-Titel=Update Version V8.48_4
+Titel=Update Version V8.48_5
 
 [Hinweise]
-Zeile1=Neue Version V8.48_4
-Zeile2=Neue Mailadresse für Exporte und Berichte
+Zeile1=Neue Version V8.48_5
+Zeile2=Diverse Änderungen
 Zeile3= kundendienst@eaton.com wird bald auf Case Management geschaltet!
 
