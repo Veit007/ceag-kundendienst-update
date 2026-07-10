@@ -1,5 +1,5 @@
 [VERSION]
-Version=8.48_5
+Version=8.48_6
 MinVersion=8.48
 
 [LICENSE]
@@ -13,5 +13,5 @@ ForceUpdate=False
 DeleteInstall=False
 
 [SIGNATURE]
-Signature=ab31d332168bba74327c5234d95d28c2d2c4859520f1fe37601ab9da7da2bfd8
+Signature=7d5b32b398ac63106144415395be83996e9e2ed7747e97e8023d494f20a50e7c
 
