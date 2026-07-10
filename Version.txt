@@ -1,12 +1,12 @@
 [Frontend]
-Version=2026.07.01.015
+Version=2026.07.10.016
 Archiv=CEAG KundendienstV7.7z
 Datei=CEAG KundendienstV7.mdb
 PflichtUpdate=1
-Titel=Update Version V8.48_5
+Titel=Update Version V8.48_6
 
 [Hinweise]
-Zeile1=Neue Version V8.48_5
-Zeile2=Diverse Änderungen
-Zeile3= kundendienst@eaton.com wird bald auf Case Management geschaltet!
+Zeile1=Neue Version V8.48_6
+Zeile2=Kleine Fehlerbehebungen (Invoicing)
+Zeile3= Serviceberichte_LS@eaton.com wird als Blindcopy gesetzt -> wenn ein Kunde antwortet geht es nicht an diese Adresse
 
