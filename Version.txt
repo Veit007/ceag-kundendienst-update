@@ -1,5 +1,5 @@
 [Frontend]
-Version=2026.09.18.018
+Version=2026.09.18.019
 Archiv=CEAG KundendienstV7.7z
 Datei=CEAG KundendienstV7.mdb
 PflichtUpdate=1
@@ -7,7 +7,7 @@ Titel=Update Version V8.48_7
 
 [Hinweise]
 Zeile1=Neue Version V8.48_7
-Zeile2= Änderung Angebote Wartungsvertrag
+Zeile2= Änderung Angebote Wartungsvertrag (Angebots-Text nochmal geändert)
 Zeile3= Excel Abgleich Inventurlisten 2026
 Zeile4= Aktuelle Materialliste geladen
 
