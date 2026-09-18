@@ -7,6 +7,7 @@ Titel=Update Version V8.48_7
 
 [Hinweise]
 Zeile1=Neue Version V8.48_7
-Zeile2= diverse Änderungen + Bugfixe
+Zeile2= Änderung Angebote Wartungsvertrag
 Zeile3= Excel Abgleich Inventurlisten 2026
+Zeile4= Aktuelle Materialliste geladen
 
